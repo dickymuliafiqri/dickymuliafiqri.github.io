@@ -25,7 +25,7 @@ export default defineAppConfig({
   },
   footer: {
     credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
-    colorMode: false,
+    colorMode: true,
     links: [
       {
         icon: "i-simple-icons-instagram",

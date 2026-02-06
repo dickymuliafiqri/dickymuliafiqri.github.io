@@ -30,12 +30,12 @@ experience:
     - position: "Freelance"
       date: "2022 - Sekarang"
       company:
-        name: Work From Home
+        name: WFH
         color: "#FFFFFF"
-    - position: "Instruktur Pemrograman di"
+    - position: "Instruktur di"
       date: "2023 - Sekarang"
       company:
-        name: Amanah Edu Centre
+        name: AEC
         url: "https://lkpamanaheducentre.id"
         color: "#a135cc"
 testimonials:
