@@ -17,6 +17,8 @@ hero:
       alt: Guiding
     - src: /hero/4.jpg
       alt: HBD
+    - src: /hero/me.jpg
+      alt: HBD
 about:
   title: "About Me"
   description: |
