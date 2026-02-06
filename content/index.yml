@@ -1,0 +1,83 @@
+seo:
+  title: "Dicky Mulia Fiqri - Fullstack Programmer"
+  description: "Selamat datang di portofolio saya. Saya adalah Dicky Mulia Fiqri, seorang programmer yang berawal dari backend dan sekarang sedang giat mendalami frontend web development."
+title: "Hi, Saya Dicky - Seorang Fullstack Developer"
+description: "Saya membangun sistem dan website secara berkala dengan mengikuti perkembangan dan trend teknologi terbaru untuk memastikan ketahanan aplikasi dalam jangka panjang"
+hero:
+  links:
+    - label: "Use this template"
+      to: https://github.com/nuxt-ui-templates/portfolio
+      color: "neutral"
+  images:
+    - src: /hero/1.jpeg
+      alt: Coding Class
+    - src: /hero/2.jpeg
+      alt: Nailong
+    - src: /hero/3.jpg
+      alt: Guiding
+    - src: /hero/4.jpg
+      alt: HBD
+about:
+  title: "About Me"
+  description: |
+    Sebagai seorang fullstack developer, saya terbiasa untuk membangun website secara menyeluruh mulai dari sistem backend seperti API, Database, Payment Gateway, dan sebagainya.  
+    Untuk mendukung stabilitas dan performa aplikasi yang saya kembangkan, saya biasa menggunakan 2 bahasa favorit yaitu, Go dan JS. 2 bahasa tersebut adalah sweetspot bagi saya dalam mengembangkan aplikasi secara professional.
+experience:
+  title: Work Experience
+  items:
+    - position: "Freelance"
+      date: "2022 - Sekarang"
+      company:
+        name: Work From Home
+        color: "#FFFFFF"
+    - position: "Instruktur Pemrograman di"
+      date: "2023 - Sekarang"
+      company:
+        name: Amanah Edu Centre
+        url: "https://lkpamanaheducentre.id"
+        color: "#a135cc"
+testimonials:
+blog:
+  title: "Latest Articles"
+  description: "Some of my recent thoughts"
+faq:
+  title: Frequently Asked Questions
+  description: Menjawab pertanyaan yang sering ditanyakan.
+  categories:
+    - title: Layanan dan Proses
+      questions:
+        - label: Layanan apa yang saya tawarkan?
+          content: |
+            Saya ahli dalam pembuatan website dan program, juga termasuk sistem otomasi seperti scraping bot, telegram bot, dan sebagainya.
+            Sehingga saya yakin saya bisa menjawab kebutuhan anda seputar hal yang saya sebutkan di atas.
+        - label: Bagaimana proses pengerjaan dilakukan?
+          content: |
+            Saya akan mendengarkan kebutuhan anda, kemudian saya akan mencoba untuk memberikan solusi dan saran terkait hal tersebut.
+            Jika anda setuju dengan saran yang saya ajukan, saya akan memberikan MoU dan berkas pengerjaan yang bisa saya lakukan beserta batasannya.
+            Di akhir, saya akan mengerjakan project sesuai dengan masa deadline yang disepakati bersama.
+        - label: Apakah kamu bekerja untuk UMKM?
+          content: |
+            Tentu!, saya akan dengan senang hati bekerja sama dengan pelaku UMKM di Indonesia!.
+    - title: Biaya dan Timeline
+      questions:
+        - label: Biasanya, berapa biaya yang dibutuhkan untuk membangun suatu website?
+          content: |
+            Untuk membuat suatu landing website, biasanya memakan biaya sekitar Rp.700.000 - Rp.1.000.000, Tidak termasuk dengan biaya hosting dan domain jika diperlukan
+        - label: Bagaimana skema pembayaran yang kamu terima?
+          content: |
+            Saya akan meminta uang muka sebesar 40% dari total harga yang sudah disepakati.
+            Saya hanya menerima pembayaran melalui pembayaran langsung ke nomor rekening yang akan saya sampaikan secara langsung kepada anda.
+        - label: Biasanya, dibutuhkan waktu berapa lama untuk menyelesaikan satu project?
+          content: |
+            Lama waktu pengerjaan sangat bergantung pada tingkat kompleksitas project yang diajukan. Akan tetapi, biasanya dibutuhkan waktu setidaknya 18 hari untuk menyelesaikan satu project berupa website profil perusahaan yang professional.
+        - label: Apakah ada layanan untuk hiring berkelanjutan?
+          content: |
+            Ya, saya bisa memberikan layanan secara berkala apabila dibutuhkan. Saya juga bisa melakukan pemeliharaan terhadap website/program yang sudah dikerjakan sebelumnya.
+    - title: Tentang Saya
+      questions:
+        - label: Apa yang paling kamu suka ketika bekerja?
+          content: |
+            Saya sangat mencintai ketenangan, karena proses dalam menulis kode dibutuhkan tingkat konsentrasi yang tinggi. dan Sangat menyenangkan jika saya berhasil memecahkan satu masalah/tantangan dengan segenap pengetahuan saya.
+        - label: Apa hobi yang kamu miliki diluar dari pekerjaanmu?
+          content: |
+            Diluar dari kegiatan yang membutuhkan teknologi. Saya senang mendengarkan cerita dan pengalaman orang lain, juga saya sangat tertarik dengan praktik Public Speaking.
