@@ -101,7 +101,7 @@ defineProps<{
           delay: 0.5,
         }"
       >
-        <div v-if="page.hero.links" class="flex items-center gap-2">
+        <div v-if="page.hero.links" class="flex flex-col items-center gap-2">
           <UButton
             :color="global.available ? 'success' : 'error'"
             variant="ghost"
@@ -127,6 +127,14 @@ defineProps<{
                 />
               </span>
             </template>
+          </UButton>
+          <UButton
+            color="info"
+            variant="ghost"
+            class="gap-2"
+            :to="global.cv"
+            label="View My CV"
+          >
           </UButton>
         </div>
       </Motion>

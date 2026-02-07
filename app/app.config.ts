@@ -6,6 +6,7 @@ export default defineAppConfig({
       alt: "My profile picture",
     },
     meetingLink: "https://wa.me/6285159946600",
+    cv: "https://s.id/dickys_cv",
     email: "santrialanwari@gmail.com",
     available: true,
   },
