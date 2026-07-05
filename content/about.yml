@@ -1,0 +1,21 @@
+title: About Me
+description: Tentang semua yang saya ketahui dan perjalanan saya sampai di titik ini
+content: |
+  Hi, sekali lagi, perkenalkan nama saya **Dicky Mulia Fiqri**, saya adalah programmer dalam bidang fullstack, yang berarti saya mampu dalam mengembangkan aplikasi mulai dari sistem hingga ke tampilan pengguna (website)
+
+  ## Perjalanan Sebagai Backend Developer
+  Pertama kali saya belajar backend software development adalah ketika saya masih menginjak bangku sekolah di kelas 2 SMK.
+  Pada saat itu bahasa pertama saya adalah Python, dan saya ingat dengan jelas pada waktu itu saya membutuhkan waktu 2 jam hanya untuk memecahkan error yang disebabkan karena titik dua (:) dan perbedaan versi antara python dengan python3 :(.
+  Setelah saya sedikit memahami bagaimana bahasa komputer digunakan, saya mulai membuat sistem otomasi untuk menambahkan followers instagram secara otomatis.
+  Selain itu, saya juga senang membuat bot telegram untuk membantu kegiatan sehari-hari saya, seperti menyimpan catatan hingga laporan error pada aplikasi lain sedang berjalan.
+
+  ## Perjalanan Sebagai Frontend Developer
+  Saya belajar frontend development mulai dari 2018, namun pada saat itu saya tidak fokus dalam mendalaminya karena tidak ada hal yang mengharuskan saya untuk menguasai hal tersebut.
+  Saya fokus mendalami frontend development pada tahun 2025 ketika ada event lomba **Jagoan Banyuwangi**, dan saya beruntung untuk menjadi juara dalam ajang tersebut.
+  Dalam pengembangan tampilan website, saya lebih suka menggunakan Nuxt (Vue) daripada Next (React) karena Nuxt lebih sederhana dan terstruktur dengan rapi. Saya meyakini Nuxt akan lebih mudah dikembangkan dalam jangka panjang daripada Next.
+
+# images:
+#   - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+#     alt: My coffee workspace
+#   - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+#     alt: My trip to Tokyo

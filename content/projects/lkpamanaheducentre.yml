@@ -1,0 +1,15 @@
+title: Website Sekolah dan LMS Amanah Edu Centre (WIP)
+description: Sebuah website profil sekolah sekaligus LMS untuk LPS Amanah Edu Centre yang berbasis Montessori
+image: /img/lkpamanaheducentre.png
+url: "https://lkpamanaheducentre.id"
+tags:
+  [
+    "LMS",
+    "UX Design",
+    "Nuxt",
+    "Design System",
+    "Internal Tools",
+    "School",
+    "Fullstack",
+  ]
+date: "2025"
